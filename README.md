@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rana Ahammed</h1>
-<h3 align="center">MERN Stack Web Developer</h3>
+### Hi there 👋, I'm Rana Ahammed
+#### MERN Stack Web Developer
+![MERN Stack Web Developer](https://scontent.fdac2-1.fna.fbcdn.net/v/t39.30808-6/325616687_705948531021170_3396344191010911532_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE9kWf19Laj3aQBmFw1v6aI7YuKRLY5FAnti4pEtjkUCWTVhWLtxmV-Z9LJGyqqyN-DnIHx5FL6hOBXUKIbtai9&_nc_ohc=Vf_opUHkuvEAX-6Lsjx&_nc_zt=23&_nc_ht=scontent.fdac2-1.fna&oh=00_AfBGgXi8OvebjPIcXdqewLV8Ww1L5BhCwJBUQqZadNGR6Q&oe=63CA4955)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-ahammed&label=Profile%20views&color=0e75b6&style=flat" alt="rana-ahammed" /> </p>
+I am a MERN Stack Web Developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning new technologies related web development. I enjoy working with REACT, NODE, EXPRESS, MONGODB. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana-ahammed" alt="rana-ahammed" /></a> </p>
+Skills: REACT / NODE / EXPRESS / MONGODB / HTML5 / CSS3 / BOOTSTRAP5 / MATERIAL UI DESIGN / JAVASCRIPT / REDUX / MONGOOSE 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on building portfolio websites. 
+- 🌱 I’m currently learning various type website building. 
+- 💬 Ask me about Web Development. 
+- 📫 How to reach me: Skype:  live:.cid.3ae481636a8c7eea 
 
-- 🔭 I’m currently working on **working on Portfolio Websites.**
 
-- 🌱 I’m currently learning **revising what I have learned previous 2 years.**
-
-- 💬 Ask me about **Web Development.**
-
-- 📫 How to reach me **rana.ahammed.012@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rana-ahammed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rana-ahammed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rana6220)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
