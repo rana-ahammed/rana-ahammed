@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rana Ahammed
 #### MERN Stack Web Developer
-![MERN Stack Web Developer]
+
 
 I am a MERN Stack Web Developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning new technologies related web development. I enjoy working with REACT, NODE, EXPRESS, MONGODB. 
 
